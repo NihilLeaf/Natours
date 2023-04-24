@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Learning Express and Mongo DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihilLeaf/Natours.git"
+  },
+  "author": "NihilLeaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihilLeaf/Natours/issues"
+  },
+  "homepage": "https://github.com/NihilLeaf/Natours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
